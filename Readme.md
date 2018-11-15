@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/NewProject/Form1.cs)**
+* [GridColumnLayoutWrapper.cs](./CS/NewProject/GridColumnLayoutWrapper.cs)
+* [MyClass.cs](./CS/NewProject/MyClass.cs)
+<!-- default file list end -->
 # WinForms dashboard - How to save Grid column width
 
 
